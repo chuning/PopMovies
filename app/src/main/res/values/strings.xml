@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="sort_by_popular">Most Popular</string>
+    <string name="sort_by_highest_rated">Highest Rated</string>
+    <string name="rating_template">%1$s/10</string>
+    <string name="error_message">oops...something went wrong, please check the internet</string>
+    <string name="reviews">Reviews</string>
+    <string name="mark_as_favorite">Mark as Favorite</string>
+    <string name="favorited">Liked</string>
+    <string name="my_favorite">My Favorite</string>
+    <string name="trailers">Trailers</string>
+    <string name="show_more">Show More</string>
+    <string name="show_less">Show Less</string>
+    <string name="no_trailers">No trailers yet...</string>
+    <string name="no_reviews">No reviews yet...</string>
+    <string name="no_internet">No connection...</string>
+    <string name="no_favorite_movie">No favorite movies yet...</string>
+    <string name="share">Share</string>
+    <string name="share_movie_title">Share the trailer</string>
+    <string name="share_movie_template">Hi! Check this cool movie: %1$s. See the trailer: %2$s </string>
+</resources>
